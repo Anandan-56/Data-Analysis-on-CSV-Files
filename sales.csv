@@ -1,0 +1,51 @@
+OrderID,Product,Category,Quantity,Price,Sales,Date
+201,Laptop,Electronics,1,55000,55000,2024-01-02
+202,Mouse,Electronics,4,450,1800,2024-01-03
+203,Keyboard,Electronics,3,800,2400,2024-01-04
+204,Desk Chair,Furniture,1,3500,3500,2024-01-04
+205,Notebook,Stationery,10,40,400,2024-01-05
+206,Pen,Stationery,15,10,150,2024-01-05
+207,Water Bottle,Home,2,300,600,2024-01-06
+208,Coffee Mug,Home,3,250,750,2024-01-07
+209,Phone Case,Accessories,5,150,750,2024-01-08
+210,Charger,Electronics,2,900,1800,2024-01-09
+211,Headphones,Electronics,1,2200,2200,2024-01-10
+212,Table Lamp,Home,1,900,900,2024-01-11
+213,Marker,Stationery,12,20,240,2024-01-12
+214,Backpack,Accessories,1,1200,1200,2024-01-12
+215,Laptop Stand,Electronics,2,1200,2400,2024-01-13
+216,Phone Holder,Accessories,4,180,720,2024-01-14
+217,Extension Box,Electronics,3,350,1050,2024-01-15
+218,Sticky Notes,Stationery,8,25,200,2024-01-15
+219,Desk Organizer,Furniture,1,1500,1500,2024-01-16
+220,Wall Clock,Home,1,700,700,2024-01-17
+221,USB Cable,Electronics,5,180,900,2024-01-18
+222,Storage Box,Home,2,500,1000,2024-01-18
+223,Highlighter,Stationery,6,30,180,2024-01-19
+224,Notebook,Stationery,8,40,320,2024-01-20
+225,Office Chair,Furniture,1,4500,4500,2024-01-20
+226,Headphones,Electronics,2,1500,3000,2024-01-21
+227,Phone Case,Accessories,3,150,450,2024-01-22
+228,Coffee Mug,Home,2,250,500,2024-01-22
+229,Desk Mat,Home,1,800,800,2024-01-23
+230,USB Hub,Electronics,1,900,900,2024-01-24
+231,Clipboard,Stationery,5,60,300,2024-01-24
+232,Whiteboard,Furniture,1,2200,2200,2024-01-25
+233,Lunch Box,Home,1,350,350,2024-01-25
+234,Phone Charger,Electronics,2,850,1700,2024-01-26
+235,Keyboard,Electronics,2,900,1800,2024-01-26
+236,Water Bottle,Home,3,300,900,2024-01-27
+237,Pen,Stationery,20,10,200,2024-01-28
+238,Notebook,Stationery,10,40,400,2024-01-29
+239,Desk Shelf,Furniture,1,2500,2500,2024-01-29
+240,Mouse Pad,Accessories,4,120,480,2024-01-30
+241,Phone Stand,Accessories,5,180,900,2024-01-30
+242,Sticky Notes,Stationery,10,25,250,2024-01-31
+243,Monitor,Electronics,1,12000,12000,2024-02-01
+244,Laptop Bag,Accessories,1,1500,1500,2024-02-02
+245,Notebook,Stationery,12,40,480,2024-02-02
+246,Desk Lamp,Home,1,950,950,2024-02-03
+247,Router,Electronics,1,2000,2000,2024-02-03
+248,Phone Case,Accessories,4,150,600,2024-02-04
+249,Highlighter,Stationery,10,30,300,2024-02-04
+250,Water Bottle,Home,2,300,600,2024-02-05
